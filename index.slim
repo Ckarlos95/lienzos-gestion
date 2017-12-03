@@ -1,0 +1,134 @@
+ruby:
+  mod_effect_duration = 1500
+  modules = {
+    cus_seg: {
+      name: 'Segmentos de mercado',
+      txt: 'Una empresa atiende a uno o varios segmentos de mercado.',
+      effect: 'fade-down-right',
+      img: 'mod_1.png'
+    },
+    val_pro: {
+      name: 'Propuestas de valor',
+      txt: 'Su objetivo es solucionar los problemas de los clientes y satisfacer sus necesidades mediante propuestas de valor.',
+      effect: 'fade-down',
+      img: 'mod_2.png'
+    },
+    channels: {
+      name: 'Canales',
+      txt: 'Las propuestas de valor llegan a los clientes a través de canales de comunicación, distribución y venta.',
+      effect: 'fade-down-left',
+      img: 'mod_3.png'
+    },
+    cus_rel: {
+      name: 'Relaciones con clientes',
+      txt: 'Las relaciones con los clientes se establecen y mantienen de forma independiente en los diferentes segmentos de mercado.',
+      effect: 'fade-right',
+      img: 'mod_4.png'
+    },
+    rev_str: {
+      name: 'Fuentes de ingresos',
+      txt: 'Las fuentes de ingresos se generan cuando los clientes adquieren las propuestas de valor ofrecidas.',
+      effect: 'zoom-in',
+      img: 'mod_5.png'
+    },
+    key_res: {
+      name: 'Recursos clave',
+      txt: 'Los recursos clave son los activos necesarios para ofrecer y proporcionar los elementos antes descritos …',
+      effect: 'fade-left',
+      img: 'mod_6.png'
+    },
+    key_act: {
+      name: 'Actividades clave',
+      txt: '… mediante una serie de actividades clave.',
+      effect: 'fade-up-right',
+      img: 'mod_7.png'
+    },
+    key_par: {
+      name: 'Asociaciones clave',
+      txt: 'Algunas actividades se externalizan y determinados recursos se adquieren fuera de la empresa.',
+      effect: 'fade-up',
+      img: 'mod_8.png'
+    },
+    cos_str: {
+      name: 'Estructura de costes',
+      txt: 'Los diferentes elementos del modelo de negocio conforman la estructura de costes.',
+      effect: 'fade-up-left',
+      img: 'mod_9.png'
+    }
+  }
+
+  descriptions = {
+    aureo_cos: 'AureoCos',
+    biblio_visual: 'Biblio Visual',
+    celeritatem: 'Celeritatem',
+    cell_guard: 'Cell Guard',
+    lapillow: 'Lapillow',
+    leap_cricket: 'Leap Cricket',
+    loop: 'Loop S.A. de C.V.',
+    punto_y_aparte: 'Punto y Aparte',
+    the_gainers_team: 'The Gainers Team',
+    the_occasional_game: 'The OCCA-sional Game',
+    tier_mx: 'TierMX'
+  }.each {|key, des| des.replace "Modelo de negocio: #{des}"}
+
+  collage_effects = %w{ zoom-in zoom-out fade-zoom-in fade-zoom-out }
+
+
+
+doctype 5
+head
+  title Lienzos
+
+  - Dir['css/*.css'].each do |css_file|
+    link rel="stylesheet" type="text/css" href=css_file
+  / link href="https://fonts.googleapis.com/css?family=Lato:400,900|Open+Sans:400,800" rel="stylesheet"
+
+body
+  .hero-image
+    .hero-text
+      h1 Generación de Modelos de Negocio
+      br : br
+      h5 Gestión empresarial | 2018 - 1
+
+  .container
+    .row 
+      .col-sm-12
+        br
+        .explanation
+          .title data-aos="fade-left" data-aos-duration=mod_effect_duration
+            | ¿Qué es un modelo de negocio?
+          .what-is data-aos="fade-right" data-aos-duration="1700"
+            | Un modelo de negocio
+              describe las bases sobre las que
+              una empresa crea, proporciona
+              y capta valor.
+        br : br
+        .modules
+          .title data-aos="flip-up" data-aos-duration=mod_effect_duration
+            | Los nueve módulos
+          .row
+            - modules.each do |mod_name, data|
+              .mod class="col-lg-4 col-md-12" data-aos=data[:effect] data-aos-duration=mod_effect_duration
+                .name.row
+                  .mod-img class="col-lg-3 d-none d-xl-block d-lg-block d-xl-none" style="background-image: url('images/modules/#{data[:img]}');"
+                  .col-lg-9.col-md-12 = data[:name]
+                .content = data[:txt]
+
+    .row.collage : .col-sm-12
+      .title data-aos="fade-up" data-aos-duration=mod_effect_duration
+        | Collage
+      br : br
+      .photopile-wrapper
+        ul.photopile
+          - imgs_full = Dir.entries('images/collage/') - %w{ . .. .keep }
+          - imgs_full.shuffle.each do |img|
+            - img_nm = img.split('.').first
+            li data-aos=collage_effects.sample data-aos-duration=(1800..2400).step(50).to_a.sample data-aos-delay=rand(100..600)
+              a href="images/collage/#{img}"
+                img.coll-img alt="#{descriptions[img_nm.to_sym]}" src="images/collage/#{img}"
+      br : br : br
+/! Scripts
+- Dir['js/*.js'].each do |js_file|
+  script src=js_file
+javascript:
+  AOS.init();

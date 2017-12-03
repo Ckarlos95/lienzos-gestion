@@ -1,0 +1,1807 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"t",
+				"t\ttbody"
+			],
+			[
+				"b",
+				"br\tbr"
+			],
+			[
+				"h",
+				"h\th6"
+			],
+			[
+				"doc",
+				"doctype\tHTML 5"
+			],
+			[
+				"s",
+				"s\tstrong"
+			],
+			[
+				"fon",
+				"font_size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"comment_t",
+				"comment_to_prepend"
+			],
+			[
+				"comm",
+				"comment_to_append"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"l",
+				"lt\t$var: list"
+			],
+			[
+				"i",
+				"ins\tinspect() returns the string representation of a value as it would be represented in Sass"
+			],
+			[
+				"f",
+				"fun\t@function"
+			],
+			[
+				"lis",
+				"list_elem"
+			],
+			[
+				"list",
+				"list_joined"
+			],
+			[
+				"Strin",
+				"string\tfunc"
+			],
+			[
+				"down",
+				"downcase\tfunc"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bg",
+				"bg_color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"unles",
+				"unless\tunless … end"
+			],
+			[
+				"modul",
+				"module\tModule Definition"
+			],
+			[
+				"mod",
+				"mod\tmodule .. module_function .. end"
+			],
+			[
+				"size",
+				"size?\tfunc"
+			],
+			[
+				"cas",
+				"case\tCase Statement"
+			],
+			[
+				"case",
+				"case\tcase … end"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ext",
+				"ext\tfunc"
+			],
+			[
+				"conf",
+				"config\tfunc"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"style",
+				"border-style"
+			],
+			[
+				"ke",
+				"key_prefix"
+			],
+			[
+				"sec",
+				"section_animation_duration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"op",
+				"op\topacity() gets the alpha component (opacity) of a color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"rg",
+				"rgba\trgba() creates a Color from red, green, blue and alpha values"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"ip",
+				"important"
+			],
+			[
+				"def",
+				"def\tdef … end"
+			],
+			[
+				"para",
+				"params\tfunc"
+			],
+			[
+				"des",
+				"destroy\tfunc"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"che",
+				"checkbox_style"
+			],
+			[
+				"ch",
+				"checkbox_style"
+			],
+			[
+				"bo",
+				"border_style"
+			],
+			[
+				"if",
+				"if\t@if"
+			],
+			[
+				"fo",
+				"foreground_color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"c",
+				"controller"
+			],
+			[
+				"con",
+				"controller_javascript"
+			],
+			[
+				"els",
+				"elsif\telsif ..."
+			],
+			[
+				"lab",
+				"label_transformation"
+			],
+			[
+				"cre",
+				"create_unique_nickname"
+			],
+			[
+				"nic",
+				"nick_try"
+			],
+			[
+				"ni",
+				"nickname"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"uni",
+				"unique"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"pre",
+				"presence"
+			],
+			[
+				"fg",
+				"fg_active_color"
+			],
+			[
+				"inp",
+				"input_text_color"
+			],
+			[
+				"do",
+				"down_color"
+			],
+			[
+				"up",
+				"up_color"
+			],
+			[
+				"mix",
+				"mix\t@mixin"
+			],
+			[
+				"don",
+				"downside_color"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"off",
+				"offset-l1"
+			],
+			[
+				"tex",
+				"text_color"
+			],
+			[
+				"white",
+				"white-text"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"se",
+				"sep-color-up"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"prov",
+				"prov_name"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"confirme",
+				"confirmed_at"
+			],
+			[
+				"fr",
+				"friendly_token"
+			],
+			[
+				"Des",
+				"Devise"
+			],
+			[
+				"sign",
+				"sign_up"
+			],
+			[
+				"reg",
+				"registrations"
+			],
+			[
+				"regi",
+				"register"
+			],
+			[
+				"min",
+				"minimum_password_length"
+			],
+			[
+				"prove",
+				"prov_name"
+			],
+			[
+				"g",
+				"gg"
+			],
+			[
+				"cons",
+				"contraseña"
+			],
+			[
+				"Ne",
+				"necesitamos"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"Set",
+				"Settings"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"ggo",
+				"google"
+			],
+			[
+				"omni",
+				"omniauth"
+			],
+			[
+				"contra",
+				"contraseña"
+			],
+			[
+				"confirmat",
+				"confirmations"
+			],
+			[
+				"pas",
+				"password_confirmation"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Archiv",
+				"ArchivoDeRegistrosTestBench"
+			],
+			[
+				"RES",
+				"resultados"
+			],
+			[
+				"wir",
+				"write_mode"
+			],
+			[
+				"REA",
+				"read_mode"
+			],
+			[
+				"DIN",
+				"DIN"
+			],
+			[
+				"ADD",
+				"ADDR"
+			],
+			[
+				"VE",
+				"VEC_NAME"
+			],
+			[
+				"W",
+				"WRITE_MODE"
+			],
+			[
+				"wri",
+				"write"
+			],
+			[
+				"DA",
+				"DATA_N"
+			],
+			[
+				"Da",
+				"DATA_N"
+			],
+			[
+				"ot",
+				"others"
+			],
+			[
+				"file",
+				"file_close"
+			],
+			[
+				"RE",
+				"RES_FILE"
+			],
+			[
+				"D",
+				"DOUT"
+			],
+			[
+				"WD",
+				"WD_VAR"
+			],
+			[
+				"DI",
+				"Di_VAR"
+			],
+			[
+				"std_",
+				"std_logic_vector"
+			],
+			[
+				"VEC_",
+				"VEC_F"
+			],
+			[
+				"std",
+				"std_logic_vector"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.slim",
+			"settings":
+			{
+				"buffer_size": 1283,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1817,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gg.scss",
+			"settings":
+			{
+				"buffer_size": 49,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Carlos/AppData/Roaming/Sublime Text 3/Packages/User/SCSS.sublime-build",
+			"settings":
+			{
+				"buffer_size": 204,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Dropbox/ADOO/Proyecto/VHDLearning_mail.json",
+			"settings":
+			{
+				"buffer_size": 189,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Slim.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"List",
+					""
+				],
+				[
+					"SASS",
+					""
+				]
+			],
+			[
+				"List",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Ruby/Ruby.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Slim.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Slim.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Ruby version",
+					""
+				],
+				[
+					"SASS",
+					""
+				]
+			],
+			[
+				"Ruby version",
+				""
+			]
+		],
+		[
+			[
+				[
+					"SASS",
+					""
+				],
+				[
+					"SASS -V",
+					""
+				]
+			],
+			[
+				"SASS -V",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Sass Build",
+					""
+				],
+				[
+					"Slim Build",
+					""
+				]
+			],
+			[
+				"Slim Build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Slimversion",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Slimversion",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "pc dis",
+		"selected_items":
+		[
+			[
+				"pc dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ht",
+				"HTML2Slim: Convert clipboard content"
+			],
+			[
+				"pc ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pci",
+				"Package Control: Disable Package"
+			],
+			[
+				"pc i",
+				"Package Control: Install Package"
+			],
+			[
+				"pc en",
+				"Package Control: Enable Package"
+			],
+			[
+				"join",
+				"Floobits - Join Workspace"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"htm",
+				"HTML2Slim: Convert selection"
+			],
+			[
+				"pc rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"pc r",
+				"Package Control: Remove Package"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"se",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set le",
+				"Set Syntax: LESS"
+			],
+			[
+				"set  le",
+				"Set Syntax: Less"
+			],
+			[
+				"s",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set",
+				"Set Syntax: SCSS"
+			],
+			[
+				"h",
+				"HTML2Slim: Convert selection"
+			],
+			[
+				"compil",
+				"Coffee: Fast Compile"
+			],
+			[
+				"tabs",
+				"TabsShortcuts: Key Bindings – User"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"html",
+				"HTML2Slim: Convert file"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			],
+			[
+				"packageRe",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packagre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"i",
+				"Indexing Status"
+			],
+			[
+				"pc d",
+				"Package Control: Disable Package"
+			],
+			[
+				"pc ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"Snippet: ",
+				"Snippet: When Statement"
+			],
+			[
+				"pc e",
+				"Package Control: Enable Package"
+			],
+			[
+				"pc re",
+				"Package Control: Remove Package"
+			],
+			[
+				"conda",
+				"Conda: Activate Environment"
+			],
+			[
+				"pc ins",
+				"Package Control: Install Package"
+			],
+			[
+				"cp i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 944.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"system('clear')",
+			"print('hola')",
+			"cls",
+			"clear",
+			"/home/carlos/.rvm/bin/rvm-auto-ruby -v",
+			"ruby -v"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/OneDrive/Gestión Empresarial/Lienzos",
+		"/D/OneDrive/Gestión Empresarial/Lienzos/css",
+		"/D/OneDrive/Gestión Empresarial/Lienzos/fonts"
+	],
+	"file_history":
+	[
+		"/D/OneDrive/Gestión Empresarial/Lienzos/gg.scss",
+		"/C/Users/Carlos/AppData/Roaming/Sublime Text 3/Packages/User/SCSS.sublime-build",
+		"/D/Dropbox/ADOO/Proyecto/Pruebas/sass.sublime-build",
+		"/C/Users/Carlos/AppData/Roaming/Sublime Text 3/Packages/User/SCSS.sublime-settings",
+		"/D/OneDrive/Gestión Empresarial/Lienzos/css/bootstrap.css",
+		"/D/OneDrive/Gestión Empresarial/Lienzos/css/flat-ui.css",
+		"/D/OneDrive/Gestión Empresarial/Lienzos/css/2.flat-ui.css",
+		"/D/OneDrive/Gestión Empresarial/Lienzos/lienzos.html",
+		"/D/OneDrive/Gestión Empresarial/Lienzos/css/bulma.css",
+		"/D/OneDrive/Gestión Empresarial/Lienzos/photopile.html",
+		"/C/Users/Carlos/AppData/Roaming/Sublime Text 3/Packages/User/Slim.sublime-build",
+		"/D/OneDrive/Gestión Empresarial/Lienzos/css/lato-black.svg",
+		"/tmp/editor-454876773.html",
+		"/tmp/editor-3398814741.html",
+		"/tmp/editor-3119759457.html",
+		"/home/carlos/OneDrive/Gestión Empresarial/Lienzos/Photopile-JS-master/photopile.html",
+		"/home/carlos/.config/sublime-text-3/Packages/User/Slim.sublime-build",
+		"/home/carlos/OneDrive/Gestión Empresarial/Lienzos/lienzos.html",
+		"/home/carlos/Dropbox/ADOO/Proyecto/Pruebas/comments.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/Pruebas/sass.sublime-build",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/javascripts/ace/ext-language_tools.js",
+		"/home/carlos/Google Drive/ESCOM/4 SEMESTRE/Admin. Finanzas/proceduresRanking.sql",
+		"/home/carlos/Google Drive/ESCOM/4 SEMESTRE/Admin. Finanzas/Base/FinancierasRanking/FinancierasRanking/Base/BaseScript.sql",
+		"/home/carlos/Google Drive/ESCOM/4 SEMESTRE/Admin. Finanzas/Base/ScriptRanking.sql",
+		"/home/carlos/Google Drive/ESCOM/4 SEMESTRE/Admin. Finanzas/Base/BaseScript(anterior).sql",
+		"/home/carlos/Google Drive/ESCOM/4 SEMESTRE/Admin. Finanzas/Base/Registros.sql",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/controllers/topics_controller.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/javascripts/comments.coffee",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/comments/_comments_in_unity.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/comments.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/topics/index.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/javascripts/application.js",
+		"/home/carlos/Google Drive/ESCOM/4 SEMESTRE/Admin. Finanzas/Base/FinancierasRanking/FinancierasRanking/src/fuentes/InstruccionesSql.java",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/Gemfile",
+		"/home/carlos/Google Drive/ESCOM/4 SEMESTRE/Admin. Finanzas/Base/FinancierasRanking/FinancierasRanking/src/fuentes/VentanaDatos.java",
+		"/home/carlos/Google Drive/ESCOM/4 SEMESTRE/Admin. Finanzas/Base/FinancierasRanking/FinancierasRanking/src/fuentes/Tabla.java",
+		"/home/carlos/Google Drive/ESCOM/4 SEMESTRE/Admin. Finanzas/Base/FinancierasRanking/FinancierasRanking/src/fuentes/Empresa.java",
+		"/home/carlos/Google Drive/ESCOM/4 SEMESTRE/Admin. Finanzas/Base/FinancierasRanking/FinancierasRanking/src/fuentes/Datos_Emp.java",
+		"/home/carlos/Google Drive/ESCOM/4 SEMESTRE/Admin. Finanzas/Base/FinancierasRanking/FinancierasRanking/src/fuentes/Conexion.java",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/comments/_form.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/comments/_comment.json.jbuilder",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/vendor/assets/bower_components/jquery-timeago/locales/jquery.timeago.es.js",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/layouts/application.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/db/schema.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/controllers/comments_controller.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/comments/show.json.jbuilder",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/devise/registrations/new.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/config/routes.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/.bowerrc",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/db/migrate/20171127201243_create_comments.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/controllers/unities_controller.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/sections/_user_index.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/sections/new.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/db/migrate/20171125172933_create_comments.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/users.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/common/all.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/unities/index.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/unities/_comments_in_module.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/test/controllers/topics_controller_test.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/comments/new.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/controllers/application_controller.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/users/show.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/shared/_navigation.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/common/_navigation.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/models/unity.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/models/section.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/models/comment.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/models/user.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/Pruebas/gg.no-sublime-package",
+		"/home/carlos/Dropbox/ADOO/Proyecto/Pruebas/scss/comments.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/Pruebas/pruebas.sublime-project",
+		"/home/carlos/Dropbox/ADOO/Proyecto/Pruebas/bower.json",
+		"/home/carlos/.config/sublime-text-3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/home/carlos/.config/sublime-text-3/Packages/User/SCSS.sublime-settings",
+		"/home/carlos/.config/sublime-text-3/Packages/User/JSON (Sublime).sublime-settings",
+		"/home/carlos/.config/sublime-text-3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/config/boot.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/application.css",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/bower.json",
+		"/home/carlos/Escritorio/gg.css",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/config/initializers/core_extensions.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/sections.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/shared/_breadcrumbs.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/mods/_hover_effects.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/common/gg.css",
+		"/home/carlos/Escritorio/gg.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/mods/_cross_browser.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/mods/_not_so_useful_mixins.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/mods/_materialize_mods.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/mods/gg.css",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/mods/_useful_mixins.scss",
+		"/home/carlos/Escritorio/style.css",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/test/controllers/unities_controller_test.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/comments/index.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/models/concerns/url_concern.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/controllers/users_controller.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/unities/_form.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/controllers/sections_controller.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/public/500.html",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/public/assets/sessions/new-2b44851c2ff3bfca627ebcea4e60e5261afcc6524015f24c63a6ded2c7be1466.css",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/public/assets/sessions/new-9eeed3a3f2838d2a14ba31d8b193a41fc69ef1e56414e29e708457f4b6225003.css",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/public/assets/registrations/new-67a17548e0a7b87c344c7e84017490293239dabf6a867a193f666240bad6b075.css",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/public/assets/mods/_materialize_mods-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/public/assets/mods/_cross_browser-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/public/assets/common/all-3fd608983b123f04c486cd7dab438a4d61837fb5279998730fb4a886fd82a96c.css",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/public/422.html",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/public/robots.txt",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/devise/sessions/new.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/shared/_social_buttons.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/registrations/new.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/mods/_separators.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/welcome/contact.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/assets/stylesheets/sessions/new.scss",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/welcome/about.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/topics/show.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/config/locales/devise.views.es.yml",
+		"/home/carlos/.bash_aliases",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/topics/_topics_tabs.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/topics/_user_index.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/sections/index.html.slim",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/views/welcome/land.html.slim",
+		"//media/FILES/Dropbox/ADOO/Proyecto/VHDLearning/tmp/letter_opener/1511492132_3fcad1d/rich.html",
+		"//media/FILES/Dropbox/ADOO/Proyecto/VHDLearning/tmp/letter_opener/1511493190_0415bd8/rich.html",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/app/controllers/users/registrations_controller.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/config/initializers/recaptcha.rb",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/config/settings.yml",
+		"/home/carlos/Dropbox/ADOO/Proyecto/VHDLearning/config/racaptcha.rb",
+		"/media/FILES/Descargas/ProgressBars/ProgressBars/css/style.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 148.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"imgs",
+			"typeOf",
+			"images"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"images",
+			"imgs"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.slim",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Ruby Slim/Syntaxes/Ruby Slim.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 128.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1817,
+								1817
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gg.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Carlos/AppData/Roaming/Sublime Text 3/Packages/User/SCSS.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Dropbox/ADOO/Proyecto/VHDLearning_mail.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Lienzos.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"navi",
+				"app/views/shared/_navigation.html.slim"
+			],
+			[
+				"application.js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"topics_c",
+				"app/controllers/topics_controller.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"registrationnew.sl",
+				"app/views/devise/registrations/new.html.slim"
+			],
+			[
+				"section/",
+				"app/views/sections/_user_index.html.slim"
+			],
+			[
+				"unities_c",
+				"app/controllers/unities_controller.rb"
+			],
+			[
+				"comment",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"commen",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"topics_con",
+				"app/controllers/topics_controller.rb"
+			],
+			[
+				"topics",
+				"test/controllers/topics_controller_test.rb"
+			],
+			[
+				"sec",
+				"app/models/section.rb"
+			],
+			[
+				"uni",
+				"app/models/unity.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"comme",
+				"app/models/comment.rb"
+			],
+			[
+				"unity",
+				"app/models/unity.rb"
+			],
+			[
+				"comm",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"unities",
+				"app/controllers/unities_controller.rb"
+			],
+			[
+				"all.s",
+				"app/assets/stylesheets/common/all.scss"
+			],
+			[
+				".rb",
+				"config/boot.rb"
+			],
+			[
+				"nav",
+				"app/assets/stylesheets/common/_navigation.scss"
+			],
+			[
+				"hove",
+				"app/assets/stylesheets/mods/_hover_effects.scss"
+			],
+			[
+				"mater",
+				"app/assets/stylesheets/mods/_materialize_mods.scss"
+			],
+			[
+				"sections_user",
+				"app/views/sections/_user_index.html.slim"
+			],
+			[
+				"bread",
+				"app/views/shared/_breadcrumbs.html.slim"
+			],
+			[
+				"naviga",
+				"app/views/shared/_navigation.html.slim"
+			],
+			[
+				"cross",
+				"app/assets/stylesheets/mods/_cross_browser.scss"
+			],
+			[
+				"all.scs",
+				"app/assets/stylesheets/common/all.scss"
+			],
+			[
+				"unitite",
+				"test/controllers/unities_controller_test.rb"
+			],
+			[
+				"core",
+				"config/initializers/core_extensions.rb"
+			],
+			[
+				"regis",
+				"app/views/devise/registrations/new.html.slim"
+			],
+			[
+				"sect",
+				"app/models/section.rb"
+			],
+			[
+				"sc",
+				"db/schema.rb"
+			],
+			[
+				"",
+				"config/initializers/core_extensions.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"top",
+				"test/controllers/topics_controller_test.rb"
+			],
+			[
+				"all",
+				"app/assets/stylesheets/common/all.scss"
+			],
+			[
+				"socia",
+				"app/views/shared/_social_buttons.slim"
+			],
+			[
+				"registra",
+				"app/views/devise/registrations/new.html.slim"
+			],
+			[
+				"sessions",
+				"app/views/devise/sessions/new.html.slim"
+			],
+			[
+				"sessionsnew",
+				"app/views/devise/sessions/new.html.slim"
+			],
+			[
+				"registrationsnew",
+				"app/views/devise/registrations/new.html.slim"
+			],
+			[
+				"social",
+				"app/views/shared/_social_buttons.slim"
+			],
+			[
+				"topicsind",
+				"app/views/topics/index.html.slim"
+			],
+			[
+				"tpicsshow",
+				"app/views/topics/show.html.slim"
+			],
+			[
+				"es.",
+				"config/locales/devise.views.es.yml"
+			],
+			[
+				"ab",
+				"app/views/welcome/about.html.slim"
+			],
+			[
+				"conta",
+				"app/views/welcome/contact.html.slim"
+			],
+			[
+				"about",
+				"app/views/welcome/about.html.slim"
+			],
+			[
+				"brea",
+				"app/views/shared/_breadcrumbs.html.slim"
+			],
+			[
+				"users.s",
+				"app/assets/stylesheets/users.scss"
+			],
+			[
+				"users_c",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userssho",
+				"app/views/users/show.html.slim"
+			],
+			[
+				"sectionsindex",
+				"app/views/sections/index.html.slim"
+			],
+			[
+				"land",
+				"app/views/welcome/land.html.slim"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"show",
+				"app/views/users/show.html.slim"
+			],
+			[
+				"reca",
+				"config/recaptcha.rb"
+			],
+			[
+				"registrations_c",
+				"app/controllers/users/registrations_controller.rb"
+			],
+			[
+				"sett",
+				"config/settings.yml"
+			],
+			[
+				"reg",
+				"app/controllers/users/registrations_controller.rb"
+			],
+			[
+				"new",
+				"app/views/devise/registrations/new.html.slim"
+			],
+			[
+				"sections/in",
+				"app/views/sections/index.html.slim"
+			],
+			[
+				"soc",
+				"app/views/shared/_social_buttons.slim"
+			],
+			[
+				"lan",
+				"app/views/welcome/land.html.slim"
+			],
+			[
+				"users_",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"tags",
+				"app/helpers/tags_helper.rb"
+			],
+			[
+				"navia",
+				"app/views/shared/_navigation.html.slim"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"ass",
+				"config/initializers/assets.rb"
+			],
+			[
+				"materialize_",
+				"app/assets/stylesheets/_materialize_mods.scss"
+			],
+			[
+				"asse",
+				"config/initializers/assets.rb"
+			],
+			[
+				"new.s",
+				"app/assets/stylesheets/registrations/new.scss"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"link",
+				"app/views/shared/_links.html.slim"
+			],
+			[
+				"user_c",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"sections",
+				"app/controllers/sections_controller.rb"
+			],
+			[
+				"sectio",
+				"app/controllers/sections_controller.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"user_",
+				"test/models/user_test.rb"
+			],
+			[
+				"call",
+				"app/controllers/users/omniauth_callbacks_controller.rb"
+			],
+			[
+				"topic",
+				"app/models/topic.rb"
+			],
+			[
+				"create_use",
+				"db/migrate/20171112052757_create_user_progresses.rb"
+			],
+			[
+				"create",
+				"db/migrate/20171112044522_create_topics.rb"
+			],
+			[
+				"use",
+				"app/models/user_progress.rb"
+			],
+			[
+				"welcom",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"navig",
+				"app/views/shared/_navigation.html.slim"
+			],
+			[
+				"welcoindex",
+				"app/views/welcome/index.html.slim"
+			],
+			[
+				"inde",
+				"app/views/sections/index.html.slim"
+			],
+			[
+				"regist",
+				"app/assets/stylesheets/registrations/new.scss"
+			],
+			[
+				"_cont",
+				"app/views/shared/_controller_assets.html.slim"
+			],
+			[
+				"appl",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"new.ht",
+				"app/views/devise/sessions/new.html.slim"
+			],
+			[
+				"ne",
+				"app/assets/stylesheets/sessions/new.scss"
+			],
+			[
+				"dev",
+				"db/migrate/20171029204328_devise_create_users.rb"
+			],
+			[
+				"devis",
+				"db/migrate/20171029204328_devise_create_users.rb"
+			],
+			[
+				"devise_c",
+				"db/migrate/20171029204328_devise_create_users.rb"
+			],
+			[
+				"20",
+				"db/migrate/20171029204328_devise_create_users.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"conf",
+				"config/initializers/config.rb"
+			],
+			[
+				"us",
+				"app/models/user.rb"
+			],
+			[
+				"_gg",
+				"app/views/welcome/_gg.html.slim"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"mat",
+				"vendor/assets/bower_components/materialize/bin/materialize.css"
+			],
+			[
+				"_l",
+				"app/views/devise/shared/_links.html.slim"
+			],
+			[
+				"rails",
+				"bin/rails"
+			],
+			[
+				"rail",
+				"bin/rails"
+			],
+			[
+				"ind",
+				"app/views/welcome/index.html.slim"
+			],
+			[
+				"_li",
+				"app/views/devise/shared/_links.html.slim"
+			],
+			[
+				"ap",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"applicat",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"_s",
+				"app/views/devise/shared/_social_buttons.slim"
+			],
+			[
+				"_lin",
+				"app/views/devise/shared/_links.html.slim"
+			],
+			[
+				"regi",
+				"app/controllers/users/registrations_controller.rb"
+			],
+			[
+				"apli",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"devi",
+				"config/initializers/devise.rb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"sess",
+				"app/controllers/users/sessions_controller.rb"
+			],
+			[
+				"omni",
+				"app/controllers/users/omniauth_callbacks_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
